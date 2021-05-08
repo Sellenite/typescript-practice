@@ -1,7 +1,1 @@
-let a: string = 'init';
-
-const h1 = document.createElement('h1');
-
-h1.innerHTML = a;
-
-document.body.appendChild(h1);
+import './modules/js-apply/index.ts';
